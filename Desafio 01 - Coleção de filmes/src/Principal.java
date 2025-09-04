@@ -19,6 +19,7 @@ public class Principal {
         pessoa2.exibirStatus();
 
         System.out.println();
+        
         var pessoa3 = new Pessoa();
         pessoa3.setNome("Themis");
         pessoa3.setIdade(700);
