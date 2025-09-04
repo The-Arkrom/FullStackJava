@@ -65,7 +65,6 @@ public class Principal {
 
         System.out.println();
 
-
         // Desafio 6
         
         System.out.println(listaDePessoas);
